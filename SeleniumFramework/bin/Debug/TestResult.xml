@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Christopher\Documents\Visual Studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="1" ignored="0" skipped="0" invalid="0" date="2015-10-18" time="16:48:05">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="CHRISTOPHER-PC" user="Christopher" user-domain="Christopher-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Christopher\Documents\Visual Studio 2012\Projects\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.dll" executed="True" result="Inconclusive" success="False" time="8.317" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SeleniumFramework" executed="True" result="Inconclusive" success="False" time="8.304" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Features" executed="True" result="Inconclusive" success="False" time="8.304" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="GoogleApplicationFeature" description="Google Application" executed="True" result="Inconclusive" success="False" time="8.302" asserts="0">
+                <results>
+                  <test-case name="SeleniumFramework.Features.GoogleApplicationFeature.EnterSearchQuery" description="Enter search query" executed="True" result="Inconclusive" success="False" time="7.748" asserts="0">
+                    <categories>
+                      <category name="test" />
+                    </categories>
+                    <reason>
+                      <message><![CDATA[One or more step definitions are not implemented yet.
+  Google_sd.WhenIEnterASearchQuery("<NCC>")]]></message>
+                    </reason>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
